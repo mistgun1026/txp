@@ -1,0 +1,17 @@
+{
+  "name": "txp-xero-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Permanent Xero Custom MCP connector for The Expert Project (txp.densetsuph.com)",
+  "type": "module",
+  "main": "server.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
